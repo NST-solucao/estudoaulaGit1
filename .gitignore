@@ -1,2 +1,4 @@
 ignore.txt
 ignore2.txt
+*.py
+!file_3.py
